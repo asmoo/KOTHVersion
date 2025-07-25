@@ -1,0 +1,1 @@
+This is a temporary version validator used while we don't move this data properly to server
